@@ -83,7 +83,7 @@ const projects = [
     title: "PyNotes",
     imgSrc: "/project-imgs/pynotes.png",
     code: "https://www.github.com/dzc0d3r/pynotes",
-    projectLink: "https://codewithwalid.pro/pynotes",
+    projectLink: "https://pynotes.codewithwalid.pro",
     tech: ["Python", "mkdocs", "mkdocs-material", "mkdocs-static-i18n", "Github Actions"],
     description:
       "Elevate your Python programming skills with our intuitive documentation hub. (Under Continuous Development)",
