@@ -15,19 +15,19 @@ export default function home() {
         <meta property="og:title" content="Walid Lamraoui | Frontend Developer" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://codewithwalid.pro/" />
-        <meta property="og:image" content="https://deverajc.com/screenshot.png" />
-        <meta property="og:description" content="Hey! I'm WalidSS, and I'm a Frontend developer, Open Source enthusiast, and Poet." />
+        <meta property="og:image" content="https://codewithwalid.pro/screenshot.png" />
+        <meta property="og:description" content="Hey! I'm Walid Lamraoui, and I'm a Frontend developer, Open Source enthusiast, and Poet." />
 
         <meta name="twitter:card" content="summary"/>
         <meta name="twitter:site" content="@dzc0d3r"/>
         <meta name="twitter:title" content="Walid Lamraoui | Frontend Developer"/>
-        <meta name="twitter:description" content="Hey! I'm Walid Lamraoui, and I'm a Bachelor of Science in Information Technology graduate."/>
+        <meta name="twitter:description" content="Hey! I'm Walid Lamraoui, and I'm a Frontend developer, Open Source enthusiast, and Poet."/>
         <meta name="twitter:creator" content="@dzc0d3r"/>
-        <meta name="twitter:image" content="https://deverajc.com/screenshot.png"/>
+        <meta name="twitter:image" content="https://codewithwalid.pro/screenshot.png"/>
 
         {/* <meta itemprop="name" content="Walid Lamraoui | Frontend Developer"/>
         <meta itemprop="description" content="Hey! I'm Walid Lamraoui, and I'm a Bachelor of Science in Information Technology graduate."/>
-        <meta itemprop="image" content="https://deverajc.com/screenshot.png"/> */}
+        <meta itemprop="image" content="https://codewithwalid.pro/screenshot.png"/> */}
       </Head>
       <Home />
     </>
